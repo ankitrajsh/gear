@@ -1,3 +1,3 @@
 # gear facts
 HTML:
-<a href=">my channel</a>
+<a href="https://ankitrajsh.github.io/gear/ankit">my channel</a>
